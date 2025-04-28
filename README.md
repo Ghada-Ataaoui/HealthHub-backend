@@ -1,27 +1,32 @@
-# HealthHub
+# HealthHub Backend
 
-## Developement
+## Development
 
-### start xampp
+### Start Xampp
 
-open the xampp dashboard. start apache and mysql server
+Open the Xampp dashboard, start Apache and MySQL server.
 
 ### phpMyAdmin
 
-open your browser. open localhost you'll find the dashboard. Click on phpMyAdmin you'll find all your databases. (after you migrate them)
+- Open your browser & then localhost where you'll find the dashboard. 
+- Click on phpMyAdmin where you'll find all your databases (after you migrate them).
 
-### laravel commands
+### Laravel commands
 
-#### start the developement server
+#### Start the development server
 
+```bash
 php artisan serve
+```
 
-#### migrate the database with seeders
+#### Migrate the database with seeders
 
+```bash
 php artisan migrate:fresh --seed
+```
 
-#### others commands
+#### Others Commands
 
-check the laravel documentation for creating controllers,models, migration,...
+Check the Laravel documentation for creating controllers, models, migration...
 
-# Use Proper naming convetions as described in the documentation
+_**Note:** Use proper naming conventions as described in the documentation._
