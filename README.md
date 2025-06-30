@@ -6,12 +6,12 @@
 
 Open the Xampp dashboard, start Apache and MySQL server.
 
-### phpMyAdmin
+### PhpMyAdmin
 
 - Open your browser & then localhost where you'll find the dashboard. 
-- Click on phpMyAdmin where you'll find all your databases (after you migrate them).
+- Click on PhpMyAdmin where you'll find all your databases (after you migrate them).
 
-### Laravel commands
+### Laravel Commands
 
 #### Start the Development Server
 
