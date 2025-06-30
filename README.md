@@ -13,13 +13,13 @@ Open the Xampp dashboard, start Apache and MySQL server.
 
 ### Laravel commands
 
-#### Start the development server
+#### Start the Development Server
 
 ```bash
 php artisan serve
 ```
 
-#### Migrate the database with seeders
+#### Migrate the Database with Seeders
 
 ```bash
 php artisan migrate:fresh --seed
